@@ -3,7 +3,7 @@ using System;
 
 /*
  * def: The strategy pattern defines a family of algorithms, encapsulate each one and makes them interchangeable.
- *      Strategy lets the algorithm vary indenpendently from clients that use it.
+ *      Strategy lets the algorithm vary independently from clients that use it.
  *      
  *      Learnings
  *          - Encapsulate what varies (in our case the behaviors)
